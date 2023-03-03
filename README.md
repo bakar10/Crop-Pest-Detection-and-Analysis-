@@ -11,12 +11,12 @@
 ## 📝 Requirements
 
 - To run this model, you will need the following:
-  Python 3.6 or higher
-  TensorFlow 2.0 or higher
-  Keras 2.0 or higher
-  Scikit-learn
-  Pandas
-  Numpy
+  Python 3.6 or higher-
+  TensorFlow 2.0 or higher-
+  Keras 2.0 or higher-
+  Scikit-learn-
+  Pandas-
+  Numpy-
   pyke
 
 ## 💻 Installation
@@ -26,7 +26,7 @@
 Clone the repository and install the required libraries using pip:
 
 ```
-git clone https://github.com/your-username/crop-pest-detection.git
+git clone https://github.com/bakar10/Crop-Pest-Detection-and-Analysis-
 cd dir
 pip install pyke
 ```
