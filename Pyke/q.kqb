@@ -1,0 +1,180 @@
+what_Crops_get_Attacked($ans)
+	select the name of the crop that effected by pests ?
+	---
+	$ans = select_1
+                1:Pepper
+                2:orange
+                3:Option
+                4:tomatoes
+                5:eggplant
+                6:watermelon
+                7:Corn
+                8:potato
+                9:sorghum
+                10:pears
+                11:beans
+                12:mango
+                13:apple
+                14:blueberry
+                15:peach
+                16:Figs
+                17:apricot
+                18:rice
+                19:cotton
+                20:Wheat
+                21:roses
+                22:white pine
+                23:cowpea
+                24:quince
+                25:grapes
+                26:cane
+                27:Broccoli
+                28:cabbage
+                29:cauliflower
+                30:Pomegranate
+                31:soybeans
+                32:pumpkin
+                33:Courgettes
+                34:basbas
+                35:Grains
+                36:cucumbers
+                37:Almonds
+                38:Lemon
+                39:Picea
+                40:olives
+                41:plums
+                42:dates
+                43:pineapple
+                44:grasses
+                45:palms
+                46:banana
+                47:pecans
+                48:coffee
+                49:carrots
+                50:cucurbits
+                51:rutabagas
+                52:onions
+                53:sweetcorn
+                54:sugerbeets
+                55:peas
+                56:lettuce
+                57:sunflower
+                58:cannola
+                59:lawn grasses
+                60:maize
+                61:brassicas
+                62:barley
+                63:oats
+                64:rye
+                65:lentils
+                66:peanuts
+                67:walnuts
+                68:almonds
+                69:squash
+                70:melon
+                71:beet
+                72:bok choy
+                73:dahlias
+                74:celery
+                75:hoya
+                76:cheeries
+                77:gynura
+                78:parsnip
+                79:schefflere
+                80:chard
+                81:alfalfa
+                82:turnips
+                83:paddy
+                84:sugercane
+                85:tobacco
+                86:papaya
+                87:strawberry
+                88:legumes
+                89:blackbarry
+                90:marigold
+                91:raspberry
+                92:zinnias
+                93:avocado
+                94:oak
+                95:crabbapple
+                96:chickpea
+                97:lucerne
+                98:Mungbeans
+                99:Millets
+                100:Panicums
+                101:Sorghum
+                102:Soybeans 
+                103:Sunflowers
+                104:Barley
+                105:Canary
+                106:Triticale 
+		107: None of the above
+			! Thank goodness
+
+what_chemical_product_kill_thepest($ans)
+	select the pests names that mentioned above?
+	---
+	$ans = select_1
+	            1:Aphis
+	            2:Drosophil
+	            3:Seed_weevil
+	            4:Tree_borers
+	            5:Eriosoma_lanigerum
+	            6:Zeuzera_pyrina
+	            7:Synanthedon_Myopaeformis
+	            8:mites
+	            9:Ladybug_larva
+	            10:Tow Spotted_spider Mite
+	            11:Worm rash spider
+	            12:Bark beetles
+	            13:Chlorophorus Varius
+	            14:Macrotoma Palmata
+	            15:Anarsia Lineatella
+	            16:Russellaspus Pustulans
+	            17:Chrysomphalus ficus
+	            18:Ostrinia nubilalis
+	            19:Root Ball Pests
+	            20:Wireworms
+	            21:Khapra beetle
+	            22:aphid
+	            23:Armyworm
+	            24:Bean fly
+	            25:bean pod borer
+	            26:Black field earwig
+	            27:Brown bean bug
+	            28:Brown shield bug
+	            29:Cluster caterpillar
+	            30:Cutworms
+	            31:Spotted winged drosophila
+	            32:Exotic fruit flies
+	            33:Karnal bunt
+	            34:Spongy moths
+	            35:Hessian flies
+	            36:Formosan subterranean termite
+	            37:Exotic longhorn beetles
+	            38:Grape phylloxera
+	            39:Etiella
+	            40:Green vegetable bug
+	            41:Greenhouse whitefly
+	            42:Green stink bug
+	            43:Helicoverpa
+	            44:Leaf beetles
+	            45:Cotton leafhopper
+	            46:Vegetable leafhopper
+	            47:Lucerne leafhopper
+	            48:Spotted leafhopper
+	            49:Maize leafhopper
+	            50:Brown leafhopper
+	            51:Loopers
+	            52:Lucerne crownborer
+	            53:Mealybug
+	            54:Mirids
+	            55:Podsucking bugs
+	            56:Scarabs
+	            57:Sorghum midge
+	            58:Silverleaf whitefly
+	            59:Symphye
+	            60:Maize thrips
+	            61:Western flower thrips
+	            62: None of the above
+	            ! Thank goodness

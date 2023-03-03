@@ -1,0 +1,10 @@
+the domin of this system :
+this system decides what chemical products to use when facing Agricultural pests that damage and hram the crops 
+by asking the user to select wha crops types effected by the pests and then recommand a group of chemical products that are known to be effectent againt this pest  
+This implementations asks the user questions rather than hard-coding a fact base.
+
+
+the domin expert:
+https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/insects/horticultural
+https://portal.apvma.gov.au/pubcris
+https://www.planthealthaustralia.com.au/
