@@ -37,7 +37,7 @@ pip install pyke
 
 1- Open a terminal and navigate to the project directory.
 
-2- Run the [driver.py](Pyke\driver.py) script.
+2- Run the [driver.py](https://github.com/bakar10/Crop-Pest-Detection-and-Analysis-/blob/main/Pyke/driver.py) script.
 
 ```
 python driver.py
@@ -80,6 +80,6 @@ Overall, the results indicate that the crop pest detection and analysis project 
 
 ## 📷 Demo Screenshots
 
-[Click here](Demo_Screenshots\README.md)
+[Click here](https://github.com/bakar10/Crop-Pest-Detection-and-Analysis-/tree/main/Demo_Screenshots)
 
 ## 🤝 Contributers
