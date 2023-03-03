@@ -85,13 +85,14 @@ Overall, the results indicate that the crop pest detection and analysis project 
 ## 🤝 Contributers
 <table>
   <tr>
-    <td align="center">
+    <td align="">
     <a href="https://github.com/bakar10">
     <img src="https://avatars.githubusercontent.com/u/85423140?s=400&v=4" alt="Mohamed Abobakr"/>
     <br />
     <sub><b>Mohamed Abobakr</b></sub></a>
     </td>
-    <td align="center">
+    
+    <td align="">
     <a href="https://github.com/ZezOo90">
     <img src="https://avatars.githubusercontent.com/u/103878546?v=4" width="150px;" alt="Zeyad Mostafa"/>
     <br />
