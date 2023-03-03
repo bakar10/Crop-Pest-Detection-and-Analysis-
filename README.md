@@ -92,7 +92,6 @@ Overall, the results indicate that the crop pest detection and analysis project 
     <br />
     <sub><b>Mohamed Abobakr</b></sub></a>
     </td>
-    
     <td align="center">
     <a href="https://github.com/ZezOo90">
     <img src="https://avatars.githubusercontent.com/u/103878546?v=4" width="150px;" alt="Zeyad Mostafa"/>
