@@ -88,7 +88,7 @@ Overall, the results indicate that the crop pest detection and analysis project 
   <tr>
     <td align="center">
     <a href="https://github.com/bakar10">
-    <img src="https://avatars.githubusercontent.com/u/85423140?s=400&v=4" alt="Mohamed Abobakr"/>
+    <img src="https://avatars.githubusercontent.com/u/85423140?s=400&v=4" width="150px; alt="Mohamed Abobakr"/>
     <br />
     <sub><b>Mohamed Abobakr</b></sub></a>
     </td>
